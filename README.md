@@ -21,11 +21,13 @@
 ## ⚒️ Installations
 1. Clone the repository
 ```bash
-git clone <URL>
+git clone https://github.com/VoinFeix/Psh.git
 ```
 
 2. Install it on system.
 ```bash
+chmod +x setup.sh
+chmod +x psh
 sudo ./setup.sh
 ```
 
